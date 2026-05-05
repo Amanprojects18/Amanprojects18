@@ -12,8 +12,6 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Amanprojects18&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FF41&icon_color=00FF41&text_color=00cc33&rank_icon=github" />
-
 ### `whoami`
 
 ```python
@@ -39,7 +37,13 @@ class AmanKumarPrabhat:
         return "Build. Break. Learn. Repeat. 🔁"
 ```
 
-<br clear="right"/>
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Amanprojects18&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FF41&icon_color=00FF41&text_color=00cc33&rank_icon=github" width="450" />
+
+</div>
 
 ---
 
