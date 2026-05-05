@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=amanrock1&style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=amanrock1&color=6d28d9&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 
-## `✦ About Me`
+### `✦ About Me`
 
 ```yaml
 name:        Aman Kumar Prabhat
@@ -31,51 +31,52 @@ contact:     amanprabhat438@gmail.com
 status:      "Always exploring new dimensions of code 🚀"
 ```
 
+<br clear="right"/>
+
 ---
 
-## `✦ Connect With Me`
+### `✦ Connect With Me`
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e1b4b?style=for-the-badge&logo=linkedin&logoColor=a855f7)](https://www.linkedin.com/in/aman-prabhat-b75735325/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1e1b4b?style=for-the-badge&logo=leetcode&logoColor=a855f7)](https://leetcode.com/u/leetcode_kumar/)
-[![Instagram](https://img.shields.io/badge/Instagram-1e1b4b?style=for-the-badge&logo=instagram&logoColor=a855f7)](https://www.instagram.com/aman_kumar._.18/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanrock1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/amanrock1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amanrock1)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanprabhat438@gmail.com)
 
 </div>
 
 ---
 
-## `✦ Tech Stack`
+### `✦ Tech Stack`
 
 <div align="left">
 
-![Python](https://img.shields.io/badge/Python-1e1b4b?style=for-the-badge&logo=python&logoColor=a855f7)
-![C++](https://img.shields.io/badge/C++-1e1b4b?style=for-the-badge&logo=cplusplus&logoColor=a855f7)
-![Java](https://img.shields.io/badge/Java-1e1b4b?style=for-the-badge&logo=openjdk&logoColor=a855f7)
-![Blender](https://img.shields.io/badge/Blender-1e1b4b?style=for-the-badge&logo=blender&logoColor=a855f7)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-1e1b4b?style=for-the-badge&logo=unrealengine&logoColor=a855f7)
-![Unity](https://img.shields.io/badge/Unity-1e1b4b?style=for-the-badge&logo=unity&logoColor=a855f7)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 </div>
 
 ---
 
-## `✦ GitHub Stats`
+### `✦ GitHub Stats`
 
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amanrock1&show_icons=true&theme=midnight-purple&bg_color=04010f&border_color=6d28d9&title_color=a855f7&text_color=c4b5fd&icon_color=7c3aed" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanrock1&layout=compact&theme=midnight-purple&bg_color=04010f&border_color=6d28d9&title_color=a855f7&text_color=c4b5fd" />
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanrock1&theme=midnight-purple&background=04010f&border=6d28d9&ring=a855f7&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=e9d5ff&sideNums=c4b5fd&dates=6d28d9" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=amanrock1&theme=midnight-purple&background=04010f&border=6d28d9&ring=a855f7&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=e9d5ff&sideNums=c4b5fd&dates=6d28d9" />
 
 </div>
 
----
-
-<!-- Snake contribution graph -->
+<!-- Snake contribution graph — works only after setting up GitHub Action -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/amanrock1/amanrock1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -83,7 +84,7 @@ status:      "Always exploring new dimensions of code 🚀"
 <!-- Footer -->
 <div align="center">
 
-*✦ Exploring the universe of code, one commit at a time ✦*
+✦ Exploring the universe of code, one commit at a time ✦
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9,a855f7&height=120&section=footer" width="100%"/>
 
