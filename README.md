@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=200&section=header&text=AMAN%20KUMAR%20PRABHAT&fontSize=40&fontColor=00FF41&fontAlignY=38&desc=AI%20Explorer%20%7C%203D%20Developer%20%7C%20DSA%20Practitioner&descAlignY=58&descColor=00cc33&animation=fadeIn&fontFamily=monospace" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=200&section=header&text=AMAN%20KUMAR%20PRABHAT&fontSize=40&fontColor=00FF41&fontAlignY=38&desc=AI%20%7C%203D%20Dev%20%7C%20DSA%20Practitioner&descAlignY=55&descAlign=50&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%3E+Initializing+profile.exe...;%3E+Loading+skills...+%5BDONE%5D;%3E+Welcome+to+my+digital+space+%F0%9F%9F%A2" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%3E+Initializing+profile...;%3E+Building+with+Code+%26+Creativity;%3E+3D+Worlds+%26+AI+Dreams;%3E+DSA+Mastery+in+Progress..." />
 
 </div>
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Amanprojects18&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FF41&icon_color=00FF41&text_color=00cc33&rank_icon=percentile&include_all_commits=true&count_private=true" />
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Amanprojects18&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FF41&icon_color=00FF41&text_color=00cc33&rank_icon=github" />
 
 ### `whoami`
 
@@ -75,11 +75,11 @@ class AmanKumarPrabhat:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanprojects18&layout=donut&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00cc33&langs_count=6" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanprojects18&layout=donut&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00cc33&langs_count=6" height="200" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Amanprojects18&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00cc33&currStreakLabel=00FF41&sideLabels=00FF41&dates=00cc33&stroke=003300&sideNums=00FF41&currStreakNum=00FF41" />
+<img src="https://streak-stats.demolab.com?user=Amanprojects18&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00cc33&currStreakLabel=00FF41&sideLabels=00FF41&dates=00cc33&stroke=00cc33" />
 
 </div>
 
@@ -146,7 +146,7 @@ class AmanKumarPrabhat:
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,50:001a00,100:000000&height=120&section=footer&text=github.com%2FAmanprojects18&fontSize=16&fontColor=00FF41&fontAlignY=65&fontFamily=monospace" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,50:001a00,100:000000&height=120&section=footer&text=github.com%2FAmanprojects18&fontSize=16&fontColor=00FF41&fontAlignY=50" />
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Amanprojects18&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
 
