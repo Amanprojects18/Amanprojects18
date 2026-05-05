@@ -1,32 +1,32 @@
 <!-- HEADER -->
 <div align="center">
 
-```
-// INITIALIZING PROFILE.EXE
-```
+<code>// INITIALIZING PROFILE.EXE</code>
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=AMAN+KUMAR+PRABHAT;AI_EXPLORER+%7C+3D_DEVELOPER;DSA_PRACTITIONER" alt="Typing SVG" />
-</h1>
+<br/><br/>
 
-```
-> AI_EXPLORER  |  3D_DEVELOPER  |  DSA_PRACTITIONER
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=700&height=60&lines=AMAN+KUMAR+PRABHAT" alt="AMAN KUMAR PRABHAT" />
+
+<br/>
+
+<code>&gt; AI_EXPLORER &nbsp;|&nbsp; 3D_DEVELOPER &nbsp;|&nbsp; DSA_PRACTITIONER</code>
 
 </div>
+
+<br/>
 
 ---
 
 ## `// ABOUT_ME`
 
-```bash
+```
 ► Practicing Data Structures & Algorithms
 ► Learning AI + ML with 3D Modeling
 ► Working with Blender · Unreal · Unity
 ► Passionate about Problem Solving
 ```
 
-> 📧 **amamprabhat438@gmail.com**
+> 📧 amamprabhat438@gmail.com
 
 ---
 
@@ -34,9 +34,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%2300FF41.svg?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-%2300FF41.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-%2300FF41.svg?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/YOUR_INSTAGRAM)
+[![LinkedIn](https://img.shields.io/badge/●%20LINKEDIN-00FF41?style=for-the-badge&logoColor=black&logo=linkedin&labelColor=0d1117)](https://linkedin.com/in/YOUR_LINKEDIN)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/●%20LEETCODE-00FF41?style=for-the-badge&logoColor=black&logo=leetcode&labelColor=0d1117)](https://leetcode.com/YOUR_LEETCODE)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/●%20INSTAGRAM-00FF41?style=for-the-badge&logoColor=black&logo=instagram&labelColor=0d1117)](https://instagram.com/YOUR_INSTAGRAM)
 
 </div>
 
@@ -46,9 +48,12 @@
 
 <div align="center">
 
-| Python | C++ | Java | Blender | Unity | Unreal |
-|--------|-----|------|---------|-------|--------|
-| ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=00FF41) | ![C++](https://img.shields.io/badge/-C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00FF41) | ![Java](https://img.shields.io/badge/-Java-0d1117?style=flat-square&logo=openjdk&logoColor=00FF41) | ![Blender](https://img.shields.io/badge/-Blender-0d1117?style=flat-square&logo=blender&logoColor=00FF41) | ![Unity](https://img.shields.io/badge/-Unity-0d1117?style=flat-square&logo=unity&logoColor=00FF41) | ![Unreal](https://img.shields.io/badge/-Unreal-0d1117?style=flat-square&logo=unrealengine&logoColor=00FF41) |
+![Python](https://img.shields.io/badge/PYTHON-0d1117?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=0d1117)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00FF41&labelColor=0d1117)
+![Java](https://img.shields.io/badge/JAVA-0d1117?style=for-the-badge&logo=openjdk&logoColor=00FF41&labelColor=0d1117)
+![Blender](https://img.shields.io/badge/BLENDER-0d1117?style=for-the-badge&logo=blender&logoColor=00FF41&labelColor=0d1117)
+![Unity](https://img.shields.io/badge/UNITY-0d1117?style=for-the-badge&logo=unity&logoColor=00FF41&labelColor=0d1117)
+![Unreal](https://img.shields.io/badge/UNREAL-0d1117?style=for-the-badge&logo=unrealengine&logoColor=00FF41&labelColor=0d1117)
 
 </div>
 
@@ -58,13 +63,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=umanrock1&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umanrock1&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=umanrock1&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&rank_icon=github" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umanrock1&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41&langs_count=6" height="165"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umanrock1&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+<img src="https://streak-stats.demolab.com?user=umanrock1&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&stroke=00FF41&sideNums=00FF41&currStreakNum=00FF41" />
 
 </div>
 
@@ -72,9 +77,9 @@
 
 <div align="center">
 
-```
-[ SYSTEM_ONLINE ]                    > github.com/umanrock1 · profile_v2.0
-```
+<code>[ SYSTEM_ONLINE ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt; github.com/umanrock1 · profile_v2.0</code>
+
+<br/><br/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=umanrock1&color=00FF41&style=flat-square&label=VISITORS)
 
