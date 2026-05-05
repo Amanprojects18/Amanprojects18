@@ -1,157 +1,190 @@
-Copy-paste this full final `README.md`:
-
-````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00ff88&height=220&section=header&text=Aman%20Kumar%20Prabhat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Explorer%20%7C%203D%20Developer%20%7C%20DSA%20Practitioner&descSize=18&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=200&section=header&text=AMAN%20KUMAR%20PRABHAT&fontSize=40&fontColor=00FF41&fontAlignY=38&desc=AI%20Explorer%20%7C%203D%20Developer%20%7C%20DSA%20Practitioner&descAlignY=58&descColor=00cc33&animation=fadeIn&fontFamily=monospace" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=850&lines=Building+with+Code+%2B+Creativity;Learning+AI+and+Machine+Learning;Exploring+3D+Worlds+with+Blender%2C+Unity+and+Unreal;Practicing+DSA+Everyday" alt="Typing SVG" />
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%3E+Initializing+profile.exe...;%3E+Loading+skills...+%5BDONE%5D;%3E+Welcome+to+my+digital+space+%F0%9F%9F%A2" alt="Typing SVG" />
+
+</div>
+
+---
+
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Amanprojects18&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FF41&icon_color=00FF41&text_color=00cc33&rank_icon=percentile&include_all_commits=true&count_private=true" />
+
+### `whoami`
+
+```python
+class AmanKumarPrabhat:
+
+    name     = "Aman Kumar Prabhat"
+    role     = ["AI Explorer", "3D Developer", "DSA Practitioner"]
+    location = "India 🇮🇳"
+    email    = "amamprabhat438@gmail.com"
+
+    def currently(self):
+        return [
+            "🧠  Mastering Data Structures & Algorithms",
+            "🤖  Exploring AI + Machine Learning",
+            "🎮  Building worlds in Blender · Unreal · Unity",
+            "💡  Turning ideas into 3D reality",
+        ]
+
+    def ask_me_about(self):
+        return ["DSA", "3D Art", "Game Dev", "AI/ML"]
+
+    def life_motto(self):
+        return "Build. Break. Learn. Repeat. 🔁"
+```
+
+<br clear="right"/>
+
+---
+
+## ⚡ `// ARSENAL`
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41)
+
+### 3D & Game Development
+![Blender](https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=00FF41)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=00FF41)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=00FF41)
+
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF41)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00FF41)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=00FF41)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41)
+
+</div>
+
+---
+
+## 📊 `// STATS_TERMINAL`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanprojects18&layout=donut&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00cc33&langs_count=6" height="200"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Amanprojects18&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00cc33&currStreakLabel=00FF41&sideLabels=00FF41&dates=00cc33&stroke=003300&sideNums=00FF41&currStreakNum=00FF41" />
+
+</div>
+
+---
+
+## 🏆 `// ACHIEVEMENTS`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Amanprojects18&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+</div>
+
+---
+
+## 📡 `// CONNECT`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/──%20LINKEDIN%20──-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LeetCode](https://img.shields.io/badge/──%20LEETCODE%20──-00FF41?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
+[![Instagram](https://img.shields.io/badge/──%20INSTAGRAM%20──-00FF41?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/YOUR_INSTAGRAM)
+[![Gmail](https://img.shields.io/badge/──%20GMAIL%20──-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:amamprabhat438@gmail.com)
+
+</div>
+
+---
+
+## 🐍 `// CONTRIBUTION_SNAKE`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amanprojects18/Amanprojects18/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amanprojects18/Amanprojects18/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Amanprojects18/Amanprojects18/output/github-snake-dark.svg" />
+</picture>
+
+> **↑ To activate the snake animation**, add this GitHub Action to your profile repo:
+> `.github/workflows/snake.yml` → see setup instructions below ↓
+
+</div>
+
+---
+
+## 📈 `// ACTIVITY_GRAPH`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amanprojects18&bg_color=000000&color=00FF41&line=00cc33&point=00FF41&area=true&area_color=003300&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   "The best way to predict the future is to build it."      ║
+║                                          — Alan Kay          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,50:001a00,100:000000&height=120&section=footer&text=github.com%2FAmanprojects18&fontSize=16&fontColor=00FF41&fontAlignY=65&fontFamily=monospace" />
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Amanprojects18&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<details>
+<summary><code>// HOW TO ACTIVATE SNAKE ANIMATION 🐍</code></summary>
 
 <br/>
 
-<a href="mailto:amanprabhat438@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=00ff88"/>
-</a>
-<a href="https://www.linkedin.com/in/aman-prabhat-b75735325/">
-  <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=00ff88"/>
-</a>
-<a href="https://leetcode.com/u/leetcode_kumar/">
-  <img src="https://img.shields.io/badge/LeetCode-0f2027?style=for-the-badge&logo=leetcode&logoColor=00ff88"/>
-</a>
-<a href="https://www.instagram.com/aman_kumar._.18/">
-  <img src="https://img.shields.io/badge/Instagram-0f2027?style=for-the-badge&logo=instagram&logoColor=00ff88"/>
-</a>
+Create this file in your profile repo: `.github/workflows/snake.yml`
 
-</div>
+```yaml
+name: Generate Snake
 
----
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
-## 🧠 About Me
-
-```txt
-Hi, I am Aman Kumar Prabhat.
-
-I am currently practicing Data Structures and Algorithms,
-learning AI and Machine Learning, and exploring how AI can be
-combined with 3D modeling, game engines, and interactive worlds.
-
-My main interest is building creative technical projects using:
-Code + AI + 3D Development.
-````
-
-* 🔭 Currently working on improving my **DSA and problem-solving skills**
-* 🌱 Learning **AI, Machine Learning and 3D workflows**
-* 🎮 Exploring **Blender, Unity and Unreal Engine**
-* 💻 Comfortable with **Python, C++ and Java**
-* 🚀 Goal: Build projects that combine **AI + 3D + real-world creativity**
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,blender,unity,unreal,git,github,vscode" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0f2027?style=for-the-badge&logo=codeforces&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-0f2027?style=for-the-badge&logo=tensorflow&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/3D%20Development-0f2027?style=for-the-badge&logo=blender&logoColor=00ff88"/>
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```txt
-[01] Strengthening DSA fundamentals
-[02] Practicing coding problems regularly
-[03] Learning AI and Machine Learning
-[04] Creating 3D assets and environments
-[05] Exploring Unity and Unreal Engine
-[06] Combining AI with 3D interactive experiences
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
----
-
-## 🚀 What I Want To Build
-
-```txt
-> AI-powered 3D applications
-> Interactive 3D environments
-> Game prototypes
-> Machine Learning mini projects
-> Useful tools and real-world projects
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amanrock1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanrock1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=amanrock1&theme=github-dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amanrock1&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanrock1&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 🧩 Learning Roadmap
-
-```txt
-DSA  ━━━━━━━━━━━━━━━━━━━━━━━  Practicing
-Python  ━━━━━━━━━━━━━━━━━━━━  Improving
-Machine Learning  ━━━━━━━━━━  Learning
-Blender  ━━━━━━━━━━━━━━━━━━━  Exploring
-Unity / Unreal  ━━━━━━━━━━━━  Exploring
-Projects  ━━━━━━━━━━━━━━━━━━  Building soon
-```
-
----
-
-## 💡 Personal Motto
-
-<div align="center">
-
-```txt
-"Learn deeply. Build creatively. Improve daily."
-```
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:203a43,100:0f2027&height=130&section=footer"/>
-
-</div>
-```
+</details>
